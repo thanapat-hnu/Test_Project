@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 love
-=======
 mossssssssss
->>>>>>> d8989b78d8988e019fb10c6352d7e85a887cb4a2
